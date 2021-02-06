@@ -1,3 +1,4 @@
+![Traffic simulator](Traffic_simulator.png)
 # Traffic Simulator: A Small Initiative
  This code simulates an autonomous vehicle in the full traffic environment. The road network constructed from the XML file present in the res folder.
 # build and run the simulator
