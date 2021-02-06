@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Roads>
+	<road id="1">
+		<lan>3</lan>
+		<width>90</width>
+		<length>500</length>
+		<maxspeed>20</maxspeed>
+		<segment id="1">
+			<startX>200</startX>
+			<startY>300</startY>
+			<endX>300</endX>
+			<endY>300</endY>
+			<isNode>0</isNode>
+		</segment>
+		<segment id="2">
+			<startX>300</startX>
+			<startY>300</startY>
+			<endX>400</endX>
+			<endY>300</endY>
+			<isNode>0</isNode>
+		</segment>
+		<segment id="3">
+			<startX>400</startX>
+			<startY>300</startY>
+			<endX>500</endX>
+			<endY>300</endY>
+			<isNode>0</isNode>
+		</segment>
+		<segment id="4">
+			<startX>500</startX>
+			<startY>300</startY>
+			<endX>600</endX>
+			<endY>300</endY>
+			<isNode>0</isNode>
+		</segment>
+		<segment id="5">
+			<startX>600</startX>
+			<startY>300</startY>
+			<endX>700</endX>
+			<endY>300</endY>
+			<isNode>1</isNode>
+		</segment>
+	</road>
+	<road id="2">
+		<lan>2</lan>
+		<width>90</width>
+		<length>500</length>
+		<maxspeed>10</maxspeed>
+		<segment id="6">
+			<startX>745</startX>
+			<startY>50</startY>
+			<endX>745</endX>
+			<endY>150</endY>
+			<isNode>0</isNode>
+		</segment>
+		
+		<segment id="7">
+			<startX>745</startX>
+			<startY>150</startY>
+			<endX>745</endX>
+			<endY>450</endY>
+			<isNode>1</isNode>
+		</segment>
+		
+		<segment id="8">
+			<startX>745</startX>
+			<startY>450</startY>
+			<endX>745</endX>
+			<endY>550</endY>
+			<isNode>0</isNode>
+		</segment>
+		</road>
+</Roads>
